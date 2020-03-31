@@ -1,0 +1,29 @@
+li {
+    list-style: none;
+}
+
+body {
+    background-image: url("aurora.jpg");
+    background-size: cover;
+}
+
+.header {
+    color: blue;
+    opacity: 0.8;
+    height: 90px;
+    }
+
+.header-logo {
+    font-size: 77px;
+    font-family: 'Ludica Sans Unicode';
+    float: left;
+    padding: 7px 14px;
+    border: 8px groove #deeeee;
+    border-radius: 88px;
+}
+
+.header-list li {
+    float:left;
+    padding: 40px 43px;
+    font-size: 20px;
+    }
