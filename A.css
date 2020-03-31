@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-    color: blue;
+    color: white;
     opacity: 0.8;
     height: 90px;
     }
@@ -18,8 +18,8 @@ body {
     font-family: 'Ludica Sans Unicode';
     float: left;
     padding: 7px 14px;
-    border: 8px groove #deeeee;
-    border-radius: 88px;
+    border: 8px groove #dee7ec;
+    border-radius: 50px;
 }
 
 .header-list li {
